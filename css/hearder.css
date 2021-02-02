@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    border: 1px;
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+
+.logoword {
+    display: flex;
+}
+
+.logo img {
+    width: 180 px;
+}
+
+.nav {
+    display: flex;
+}
+
+.links>a {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.links a {
+    margin-left: 100px;
+}
+
+.icons>a {
+    margin-left: 20px;
+}
